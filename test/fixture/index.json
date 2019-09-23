@@ -1,0 +1,152 @@
+{
+    "header": {
+        "signature": "DIRC",
+        "version": "0x2",
+        "count": "0xb"
+    },
+    "entries": [
+        {
+            "ctime": "0x5d8893b223ad1e53",
+            "mtime": "0x5d8893b223ad1e53",
+            "dev": "0xfd01",
+            "ino": "0x8e850",
+            "mode": "0x81a4",
+            "uid": "0x3e8",
+            "gid": "0x3e8",
+            "fileSize": "0x9b",
+            "objectId": "0xaa148880272ec1d0488346da70e2dad451e8d3bf",
+            "filePathSize": "0xe",
+            "filePath": ".eslintrc.json"
+        },
+        {
+            "ctime": "0x5d8893b223ad1e53",
+            "mtime": "0x5d8893b223ad1e53",
+            "dev": "0xfd01",
+            "ino": "0x8e74e",
+            "mode": "0x81a4",
+            "uid": "0x3e8",
+            "gid": "0x3e8",
+            "fileSize": "0x58",
+            "objectId": "0x7f9356574ba8f882efb8ec5adde1ec07b2ce1b8d",
+            "filePathSize": "0xa",
+            "filePath": ".gitignore"
+        },
+        {
+            "ctime": "0x5d8893b223ad1e53",
+            "mtime": "0x5d8893b223ad1e53",
+            "dev": "0xfd01",
+            "ino": "0x8e82d",
+            "mode": "0x81a4",
+            "uid": "0x3e8",
+            "gid": "0x3e8",
+            "fileSize": "0x2a",
+            "objectId": "0x8b1477d960f87559ed48418008890c764872b93b",
+            "filePathSize": "0xa",
+            "filePath": ".npmignore"
+        },
+        {
+            "ctime": "0x5d8893b223ad1e53",
+            "mtime": "0x5d8893b223ad1e53",
+            "dev": "0xfd01",
+            "ino": "0x8e837",
+            "mode": "0x81a4",
+            "uid": "0x3e8",
+            "gid": "0x3e8",
+            "fileSize": "0xc3",
+            "objectId": "0xcb192820db48d64e7d526c3aece0be6243554ca7",
+            "filePathSize": "0xb",
+            "filePath": ".travis.yml"
+        },
+        {
+            "ctime": "0x5d8893902b5418eb",
+            "mtime": "0x5d8893902b5418eb",
+            "dev": "0xfd01",
+            "ino": "0x3fdeb",
+            "mode": "0x81a4",
+            "uid": "0x3e8",
+            "gid": "0x3e8",
+            "fileSize": "0x344",
+            "objectId": "0x3471badfee7c5424a02f392855fc6e82ecc941f4",
+            "filePathSize": "0x9",
+            "filePath": "ChangeLog"
+        },
+        {
+            "ctime": "0x5d8893b223ad1e53",
+            "mtime": "0x5d8893b223ad1e53",
+            "dev": "0xfd01",
+            "ino": "0x8e7ae",
+            "mode": "0x81a4",
+            "uid": "0x3e8",
+            "gid": "0x3e8",
+            "fileSize": "0xe98",
+            "objectId": "0x72c2397b1b47d0bfee1bce24e506e27ebea489ff",
+            "filePathSize": "0x9",
+            "filePath": "README.md"
+        },
+        {
+            "ctime": "0x5d8893b223ad1e53",
+            "mtime": "0x5d8893b223ad1e53",
+            "dev": "0xfd01",
+            "ino": "0xb4276",
+            "mode": "0x81a4",
+            "uid": "0x3e8",
+            "gid": "0x3e8",
+            "fileSize": "0xf46",
+            "objectId": "0x5c37088bb64935899812d128b129e27a27e48aed",
+            "filePathSize": "0xf",
+            "filePath": "lib/binarnia.js"
+        },
+        {
+            "ctime": "0x5d8893b223ad1e53",
+            "mtime": "0x5d8893b223ad1e53",
+            "dev": "0xfd01",
+            "ino": "0xb4275",
+            "mode": "0x81a4",
+            "uid": "0x3e8",
+            "gid": "0x3e8",
+            "fileSize": "0x108",
+            "objectId": "0x9a59f851cdc7b728674f8a99a03f159e5b668a1f",
+            "filePathSize": "0xd",
+            "filePath": "lib/sizeof.js"
+        },
+        {
+            "ctime": "0x5d8893b223ad1e53",
+            "mtime": "0x5d8893b223ad1e53",
+            "dev": "0xfd01",
+            "ino": "0x8e82e",
+            "mode": "0x81a4",
+            "uid": "0x3e8",
+            "gid": "0x3e8",
+            "fileSize": "0x2cc",
+            "objectId": "0x87c4db7dde14b02a76269e24dc980f1fe684c559",
+            "filePathSize": "0x9",
+            "filePath": "madrun.js"
+        },
+        {
+            "ctime": "0x5d8893902b5418eb",
+            "mtime": "0x5d8893902b5418eb",
+            "dev": "0xfd01",
+            "ino": "0x4035e",
+            "mode": "0x81a4",
+            "uid": "0x3e8",
+            "gid": "0x3e8",
+            "fileSize": "0x600",
+            "objectId": "0x4cc2fe9f27ac5b55ffa255858d599d7ad5a2aa58",
+            "filePathSize": "0xc",
+            "filePath": "package.json"
+        },
+        {
+            "ctime": "0x5d8893b223ad1e53",
+            "mtime": "0x5d8893b223ad1e53",
+            "dev": "0xfd01",
+            "ino": "0xb4279",
+            "mode": "0x81a4",
+            "uid": "0x3e8",
+            "gid": "0x3e8",
+            "fileSize": "0x18cc",
+            "objectId": "0xcd4e82efc49aa31688bd5d8dfc52fa1b975d668f",
+            "filePathSize": "0x10",
+            "filePath": "test/binarnia.js"
+        }
+    ]
+}

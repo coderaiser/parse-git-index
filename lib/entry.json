@@ -1,0 +1,45 @@
+[{
+    "name": "ctime",
+    "size": 8,
+    "type": "value"
+}, {
+    "name": "mtime",
+    "size": 8,
+    "type": "value"
+}, {
+    "name": "dev",
+    "size": 4,
+    "type": "value"
+}, {
+    "name": "ino",
+    "size": 4,
+    "type": "value"
+}, {
+    "name": "mode",
+    "size": 4,
+    "type": "value"
+}, {
+    "name": "uid",
+    "size": 4,
+    "type": "value"
+}, {
+    "name": "gid",
+    "size": 4,
+    "type": "value"
+}, {
+    "name": "fileSize",
+    "size": 4,
+    "type": "value"
+}, {
+    "name": "objectId",
+    "size": 20,
+    "type": "value"
+}, {
+    "name": "filePathSize",
+    "size": 2,
+    "type": "value"
+}, {
+    "name": "filePath",
+    "size": "<filePathSize>",
+    "type": "string"
+}]

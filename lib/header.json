@@ -1,0 +1,13 @@
+[{
+    "name": "signature",
+    "size": 4,
+    "type": "string"
+}, {
+    "name": "version",
+    "size": 4,
+    "type": "value"
+}, {
+    "name": "count",
+    "size": 4,
+    "type": "value"
+}]
