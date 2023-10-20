@@ -9,13 +9,14 @@ const parseHeader = require('../lib/parse-header');
 
 const indexPath = join(__dirname, 'fixture', 'index');
 const indexParsedPath = join(__dirname, 'fixture', 'index.json');
-const index = readFileSync(indexPath);
+
 const indexParsed = require(indexParsedPath);
+const index = readFileSync(indexPath);
 
 test('parse-git-index', (t) => {
     const result = parseGitIndex(index);
     
-    t.deepEqual(result, indexParsed, 'should equal');
+    t.deepEqual(result, indexParsed);
     t.end();
 });
 
@@ -27,6 +28,6 @@ test('parse-git-index: parse header', (t) => {
         count: '0xb',
     };
     
-    t.deepEqual(result, expected, 'should equal');
+    t.deepEqual(result, expected);
     t.end();
 });

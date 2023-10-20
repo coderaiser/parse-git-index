@@ -1,6 +1,7 @@
 {
   "name": "parse-git-index",
   "version": "1.0.0",
+  "type": "commonjs",
   "description": "parse git index",
   "main": "lib/parse-git-index.js",
   "scripts": {
@@ -16,11 +17,6 @@
     "watch:coverage:base": "madrun watch:coverage:base",
     "watch:coverage:tape": "madrun watch:coverage:tape",
     "watch:coverage": "madrun watch:coverage"
-  },
-  "nyc": {
-    "include": [
-      "lib"
-    ]
   },
   "repository": {
     "type": "git",
