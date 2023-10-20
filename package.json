@@ -38,6 +38,7 @@
   },
   "homepage": "https://github.com/coderaiser/parse-git-index",
   "devDependencies": {
+    "c8": "^8.0.1",
     "coveralls": "^3.0.0",
     "eslint": "^8.51.0",
     "eslint-plugin-node": "^10.0.0",
