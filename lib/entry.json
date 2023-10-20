@@ -29,7 +29,7 @@
 }, {
     "name": "fileSize",
     "size": 4,
-    "type": "value"
+    "type": "decimal"
 }, {
     "name": "objectId",
     "size": 20,
