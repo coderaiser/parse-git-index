@@ -1,6 +1,6 @@
 {
   "name": "parse-git-index",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "type": "commonjs",
   "description": "parse git index",
   "main": "lib/parse-git-index.js",
