@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      NAME: "parse-git-index"
+      NAME: parse-git-index
     strategy:
       matrix:
         node-version:

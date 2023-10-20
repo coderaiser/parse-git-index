@@ -7,13 +7,13 @@ const test = require('supertape');
 const parseGitIndex = require('..');
 const parseHeader = require('../lib/parse-header');
 
-const indexPath = join(__dirname, 'fixture', 'index');
 const indexParsedPath = join(__dirname, 'fixture', 'index.json');
 
 const indexParsed = require(indexParsedPath);
+const indexPath = join(__dirname, 'fixture', 'index');
 const index = readFileSync(indexPath);
 
-test('parse-git-index', (t) => {
+test('parse-git-index: parse', (t) => {
     const result = parseGitIndex(index);
     
     t.deepEqual(result, indexParsed);
