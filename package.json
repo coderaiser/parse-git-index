@@ -41,6 +41,7 @@
     "c8": "^8.0.1",
     "coveralls": "^3.0.0",
     "eslint": "^8.51.0",
+    "eslint-plugin-n": "^16.2.0",
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-putout": "^20.0.0",
     "madrun": "^9.4.0",
